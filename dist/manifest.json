@@ -1,0 +1,15 @@
+{
+  "name": "Xamarin Portable",
+  "description": "Sample extension description.",
+  "version": "0.1.0",
+  "options": [
+    {
+      "name": "Name of namespace",
+      "type": "text",
+      "id": "namescpaceName",
+      "default": "com.namespace"
+    }
+  ],
+  "moduleURL": "https://raw.githubusercontent.com/ubilab-engineering/zeplin-extension-xamarin-portable/master/dist/main.577b66ab.js",
+  "readmeURL": "https://raw.githubusercontent.com/ubilab-engineering/zeplin-extension-xamarin-portable/master/dist/README.md"
+}
